@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Sahil Dowlani
-- 👀 Undergraduate Computer Science Student.
-- 🏨 Fun fact: Currently doing Harvard's CS50X's Introduction to Computer Science at EDX.
+
 
 
 <!---
