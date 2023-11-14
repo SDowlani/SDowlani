@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Sahil Dowlani
 - 👀 Undergraduate Computer Science Student at UFAM.
-- 🌱 Currently learning Java, C .
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 Currently learning Data Structures and Algorithms (DSA) .
+
 
 <!---
 SDowlani/SDowlani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
