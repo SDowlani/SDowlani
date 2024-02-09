@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Harvard'S CS50P Final Project](https://cs50.harvard.edu/python/2022/project/)
 
-- 🌱 I’m currently learning **Harvard's Introduction to Computer Science - CS50X**
-
 - 📫 How to reach me **sahilvdowlani@outlook.com**
 
 - ⚡ Fun fact **Software Engineering @ UFAM**
